@@ -1,7 +1,7 @@
 # Quotes #
 
 ## Index
-[Dante Alighieri](#alighieri) | [Isaac Asimov](#asimov) | [James Baldwin](#baldwin) | [Ta-Nehisi Coates](#coates) | [Phillip K. Dick](#dick) | [Albert Einstein](#einstein) | [Woody Guthrie](#guthrie) | [Christopher Hitchens](#hitchens) | [Jim Holt](#holt) | [Martin Luther King, Jr.](#mlk) | [George Orwell](#orwell) | [Salman Rushdie](#rushdie) | [Bertrand Russell](#russell) | [Jean-Paul Sartre](#sartre) | [Henry David Thoreau](#thoreau) | [Bill Watterson](#watterson) | [Ken White](#white)
+[Dante Alighieri](#alighieri) | [Isaac Asimov](#asimov) | [James Baldwin](#baldwin) | [Ta-Nehisi Coates](#coates) | [Phillip K. Dick](#dick) | [Albert Einstein](#einstein) | [Woody Guthrie](#guthrie) | [Christopher Hitchens](#hitchens) | [Jim Holt](#holt) | [bell hooks](#hooks) | [Martin Luther King, Jr.](#mlk) | [George Orwell](#orwell) | [Salman Rushdie](#rushdie) | [Bertrand Russell](#russell) | [Jean-Paul Sartre](#sartre) | [Henry David Thoreau](#thoreau) | [Bill Watterson](#watterson) | [Ken White](#white)
 
 ## Alighieri, Dante <a name="alighieri">
 "This beast, the cause of your complaint, lets no one pass her way&mdash;but harries all to death. Her nature is so malign and vicious she cannot appease her voracity, for feeding makes her hungrier."  
@@ -63,6 +63,13 @@ That side was made for you and me."
 "Suppose there were nothing. Then there would be no laws; for laws, after all, are something. If there were no laws, then everything would be permitted. If everything were permitted, then nothing would be forbidden. So if there were nothing, then nothing would be forbidden. Thus nothing is self-foridding. Therefore, there must be something. QED."  
 **_Why Does the World Exist?: An Existential Detective Story_ (2012)**  
   
+## hooks, bell <a name="hooks">
+"[O]f course we need a feminist television network, which is not the same as a network for women."  
+**_Feminism is for Everybody_ (2000)**  
+
+"Given the reality of racism, it made sense that white men were more willing to consider women's rights when the granting of those rights could serve the interests of maintaining white supremacy."  
+**_Feminism is for Everybody_ (2000)**  
+
 ## King Jr., Martin Luther <a name="mlk">
 "The tough mind is sharp and penetrating, breaking through the crust of legends and myths and sifting the true from the false. The tough-minded individual is astute and discerning. He has a strong austere quality that makes for firmness of purpose and solidness of commitment. Who doubts that this toughness is one of man's greatest needs? Rarely do we find men who willingly engage in hard, solid thinking. There is an almost universal quest for easy answers and half-baked solutions. Nothing pains some people more than having to think."  
 **_Strength to Love_ (1963)**   
