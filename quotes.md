@@ -1,7 +1,7 @@
 # Quotes #
 
 ## Index
-[Dante Alighieri](#alighieri) | [Isaac Asimov](#asimov) | [James Baldwin](#baldwin) | [Ta-Nehisi Coates](#coates) | [Phillip K. Dick](#dick) | [Albert Einstein](#einstein) | [Woody Guthrie](#guthrie) | [Christopher Hitchens](#hitchens) | [Jim Holt](#holt) | [bell hooks](#hooks) | [Martin Luther King, Jr.](#mlk) | [George Orwell](#orwell) | [Salman Rushdie](#rushdie) | [Bertrand Russell](#russell) | [Jean-Paul Sartre](#sartre) | [Henry David Thoreau](#thoreau) | [Bill Watterson](#watterson) | [Ken White](#white)
+[Dante Alighieri](#alighieri) | [Isaac Asimov](#asimov) | [James Baldwin](#baldwin) | [Ta-Nehisi Coates](#coates) | [Phillip K. Dick](#dick) | [Albert Einstein](#einstein) | [Woody Guthrie](#guthrie) | [Christopher Hitchens](#hitchens) | [Jim Holt](#holt) | [bell hooks](#hooks) | [Martin Luther King, Jr.](#mlk) | [Gerda Lerner](#lerner) | [George Orwell](#orwell) | [Salman Rushdie](#rushdie) | [Bertrand Russell](#russell) | [Jean-Paul Sartre](#sartre) | [Henry David Thoreau](#thoreau) | [Bill Watterson](#watterson) | [Ken White](#white)
 
 ## Alighieri, Dante <a name="alighieri">
 "This beast, the cause of your complaint, lets no one pass her way&mdash;but harries all to death. Her nature is so malign and vicious she cannot appease her voracity, for feeding makes her hungrier."  
@@ -86,6 +86,10 @@ That side was made for you and me."
 "Men often hate each other because they fear each other; they fear each other because they don't know each other; they don't know each other because they can not communicate; they can not communicate because they are separated."  
 **_Stride Toward Freedom: The Montgomery Story_ (1958)**   
   
+## Lerner, Gerda <a name="lerner">
+"Everything that explains the world has, in fact, explained a world that does not exist, a world in which men are at the center of the human enterprise and women are at the margin helping them. Such a world does not exist - never has."
+**_Unknown_**
+
 ## Orwell, George <a name="orwell">
 "The enemy is the gramophone mind, whether or not one agrees with the record that is being played at the moment."  
 **_Unused preface to Animal Farm_ (c. 1945)**  
