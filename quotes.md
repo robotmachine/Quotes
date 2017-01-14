@@ -142,7 +142,7 @@ That side was made for you and me."
 **_Some Thoughts On The Real World By One Who Glimpsed It And Fled (Kenyon College Commencement)_ (20 May, 1990)**  
 
 ## West, Rebecca <a name="west">
-"I myself have never been able to find out what feminism is; I only know that people call me a feminist whenever I express sentiments that differentiate me from a doormat or a prostitute."
+"I myself have never been able to find out what feminism is; I only know that people call me a feminist whenever I express sentiments that differentiate me from a doormat or a prostitute."  
 **_"Mr. Chesterton in hysterics"_ The Clarion, (14 November 1913)**
 
 
