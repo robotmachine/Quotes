@@ -1,7 +1,7 @@
 # Quotes #
 
 ## Index
-[Dante Alighieri](#alighieri) | [Isaac Asimov](#asimov) | [James Baldwin](#baldwin) | [Ta-Nehisi Coates](#coates) | [Phillip K. Dick](#dick) | [Albert Einstein](#einstein) | [Woody Guthrie](#guthrie) | [Christopher Hitchens](#hitchens) | [Jim Holt](#holt) | [bell hooks](#hooks) | [Martin Luther King, Jr.](#mlk) | [Gerda Lerner](#lerner) | [George Orwell](#orwell) | [Salman Rushdie](#rushdie) | [Bertrand Russell](#russell) | [Jean-Paul Sartre](#sartre) | [Henry David Thoreau](#thoreau) | [Bill Watterson](#watterson) | [Ken White](#white)
+[Dante Alighieri](#alighieri) | [Isaac Asimov](#asimov) | [James Baldwin](#baldwin) | [Ta-Nehisi Coates](#coates) | [Phillip K. Dick](#dick) | [Albert Einstein](#einstein) | [Woody Guthrie](#guthrie) | [Christopher Hitchens](#hitchens) | [Jim Holt](#holt) | [bell hooks](#hooks) | [Martin Luther King, Jr.](#mlk) | [Gerda Lerner](#lerner) | [George Orwell](#orwell) | [Salman Rushdie](#rushdie) | [Bertrand Russell](#russell) | [Jean-Paul Sartre](#sartre) | [Henry David Thoreau](#thoreau) | [Bill Watterson](#watterson) | [Rebecca West](#west) | [Ken White](#white)
 
 ## Alighieri, Dante <a name="alighieri">
 "This beast, the cause of your complaint, lets no one pass her way&mdash;but harries all to death. Her nature is so malign and vicious she cannot appease her voracity, for feeding makes her hungrier."  
@@ -140,6 +140,10 @@ That side was made for you and me."
 ## Watterson, Bill <a name="watterson">
 "In a culture that relentlessly promotes avarice and excess as the good life, a person happy doing his own work is usually considered an eccentric, if not a subversive."  
 **_Some Thoughts On The Real World By One Who Glimpsed It And Fled (Kenyon College Commencement)_ (20 May, 1990)**  
+
+## West, Rebecca <a name="west">
+"I myself have never been able to find out what feminism is; I only know that people call me a feminist whenever I express sentiments that differentiate me from a doormat or a prostitute."
+**_"Mr. Chesterton in hysterics"_ The Clarion, (14 November 1913)**
 
 
 ## White, Ken <a name="white">
